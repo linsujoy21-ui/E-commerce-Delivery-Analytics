@@ -12,9 +12,9 @@ Objectives
 
 Data Source
 
-Dataset Name: E-commerce Delivery Dataset
+Dataset Name: E-commerce Delivery Shipping Data 2026
 
-Source: Add the original dataset link here.
+Source: Kaggle
 
 Tools Used
 
